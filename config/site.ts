@@ -1,0 +1,33 @@
+export const siteConfig = {
+  name: "Ansh Kumar Yadav - Full Stack & AI Workflow Engineer",
+  authorName: "Ansh Kumar Yadav",
+  username: "AnshYadav2412",
+  description:
+    "Ansh Kumar Yadav - Full Stack Developer & AI Workflow Engineer. B.Tech undergraduate at National Institute of Technology, Jamshedpur ('28). Building modern web applications and autonomous AI workflows.",
+  url: "http://localhost:3000",
+  links: {
+    github: "https://github.com/AnshYadav2412",
+    linkedin: "https://www.linkedin.com/in/anshyadav2412/",
+    leetcode: "https://leetcode.com/u/2412anshyadav/",
+    resume: "https://drive.google.com/file/d/1xB368POveUFuSvN9yITNMNBjEgqm8tqt/view?usp=sharing",
+    email: "mailto:2412anshyadav@gmail.com",
+    twitter: "#",
+    templateRepo: "#",
+  },
+  ogImage: "",
+  iconIco: "",
+  logoIcon: "",
+  keywords: [
+    "Ansh Kumar Yadav",
+    "Full Stack Developer",
+    "AI Workflow Engineer",
+    "AI Integrations",
+    "NIT Jamshedpur",
+    "Software Engineer",
+    "React Developer",
+    "Next.js Developer",
+    "TypeScript",
+    "Python",
+    "FastAPI",
+  ],
+};
